@@ -1,0 +1,431 @@
+/* ============== Extra Small Devices ============== */
+
+@media (max-width: 575.98px){
+.position-absolute {
+    padding: 25px 0;
+  }
+  .banner-text {
+    padding-bottom: 60px;
+    padding-top: 210px;
+  }
+.banner-text h3 {
+    font-size: 35px;
+  }
+.banner-text h2 {
+    font-size: 48px;
+    padding-top: 0px;
+  }
+.banner-text p {
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+  }
+.banner-text a {
+    font-size: 15px;
+    padding: 15px 13px;
+    margin-right: 12px;
+  }
+  .banner-text .contact {
+    padding: 15px 10px;
+  }
+  .fa-download:before {
+    margin-right: 7px;
+  }
+  .fa-phone:before {
+    margin-right: 8px;
+  }
+  #about {
+    margin: 47px 0;
+  }
+  .heading h2 {
+    font-size: 25px;
+  }
+  .about-content {
+    padding: 20px 0;
+  }
+  .info h4 {
+    font-size: 15px;
+    margin: 0;
+  }
+  .info h3 {
+    font-size: 20px;
+    line-height: 20px;
+    padding: 5px 0 30px 0;
+  }
+  #service .heading p {
+    padding: 0 35px;
+  }
+  .service-item p {
+    padding-right: 141px;
+  }
+  .service-item {
+    margin: 10px;
+  }
+  #service {
+    padding-bottom: 60px;
+  }
+  #resume .heading {
+    padding-bottom: 40px;
+  }
+  .edu-head h3 {
+    padding-bottom: 0px;
+    margin: 0;
+  }
+  .edu-item h3 {
+    font-size: 20px;
+    padding-bottom: 0px;
+  }
+  .edu-item h4 {
+    font-size: 17px;
+    padding-bottom: 10px;
+  }
+  .edu-item p {
+    font-size: 15px;
+    line-height: 24px;
+    padding-right: 233px;
+  }
+  .download-cv a {
+    font-size: 17px;
+    padding: 15px 10px;
+  }
+  #resume {
+    padding-bottom: 60px;
+  }
+  #contact {
+    padding: 60px 0;
+  }
+  #contact .heading p {
+    font-size: 15px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .h3, h3 {
+    padding-top: 30px;
+    font-size: 18px;
+  }
+  .form {
+    padding-top: 11px;
+  }
+  .field button {
+    font-weight: 600;
+    font-size: 19px;
+    padding: 10px 15px;
+  }
+  .navbar-nav{
+    background-color: #FD6E0A;
+  }
+  .navbar-expand-md .navbar-nav .nav-link {
+    margin-left: 0;
+    color: #ffffff;
+  }
+  .navbar-expand-md .navbar-nav .nav-link.button {
+    background-color: #ffff;
+    color: #FD6E0A;
+    padding: 8px 18px;
+    margin: 10px 0;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+}
+
+/* ============== Extra Small Devices ============== */
+
+/* ============== Small Devices ============== */
+
+@media (min-width: 576px) and (max-width: 767.98px){
+  .position-absolute {
+    padding: 35px 0;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+  .navbar-nav {
+    background-color: #FD6E0A;
+  }
+.navbar-expand-md .navbar-nav .nav-link {
+    margin-left: 0;
+    color: #ffffff;
+  }
+.navbar-expand-md .navbar-nav .nav-link.button {
+    background-color: #ffffff;
+    color: #FD6E0A;
+    padding: 10px 21px;
+    margin-bottom: 15px;
+  }
+  .banner-text {
+    padding-bottom: 90px;
+    padding-top: 255px;
+}
+.banner-text h2 {
+    font-size: 50px;
+    padding-top: 0px;
+}
+.banner-text p {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 32px;
+}
+.banner-text a {
+    font-size: 16px;
+    padding: 12px 8px;
+    margin-right: 15px;
+}
+.fa-download:before {
+    margin-right: 6px;
+}
+.banner-text .contact {
+    padding: 12px 8px;
+}
+.fa-phone:before {
+    margin-right: 5px;
+}
+#about {
+    margin: 55px 0;
+}
+.about-content {
+    padding: 60px 0;
+}
+.heading h2 {
+    font-size: 30px;
+}
+#service .heading p {
+    padding: 0px 40px;
+}
+.service-item p {
+    font-size: 16px;
+    padding-right: 0px;
+}
+.service-item {
+    margin-bottom: 20px;
+}
+#service {
+    padding-bottom: 60px;
+}
+#resume .heading {
+    padding-bottom: 61px;
+}
+.edu-item h3 {
+    font-size: 23px;
+    padding-bottom: 0px;
+}
+.edu-item h4 {
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+.info h4 {
+    font-size: 15px;
+    margin: 0;
+}
+.info h3 {
+    font-size: 19px;
+    margin: 0 0 19px 0;
+}
+.edu-item p {
+    font-size: 15px;
+}
+.download-cv a {
+    font-size: 15px;
+    padding: 14px 10px;
+}
+#resume {
+    padding-bottom: 72px;
+}
+#contact {
+    padding: 70px 0;
+}
+#contact .heading p {
+    font-size: 15px;
+    margin: 0;
+}
+.social {
+    padding: 15px 0;
+ }
+ .form {
+    padding-top: 10px;
+}
+.field button {
+    font-size: 17px;
+    padding: 14px 24px;
+}
+}
+
+/* ============== Small Devices ============== */
+
+/* ============== Medium Devices ============== */
+
+@media (min-width: 768px) and (max-width: 991.98px){
+.position-absolute {
+    padding: 35px 0;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-toggler {
+    border: none;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    margin-left: 25px;
+    font-size: 15px;
+}
+.navbar-expand-md .navbar-nav .nav-link.button {
+    padding: 8px 14px;
+}
+.banner-text {
+    padding-bottom: 90px;
+    padding-top: 220px;
+}
+.banner-text h2 {
+    font-size: 45px;
+    padding-top: 0px;
+}
+.banner-text p {
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 32px;
+}
+.banner-text a {
+    font-size: 16px;
+    padding: 15px 12px;
+    margin-right: 15px;
+}
+.banner-text .contact {
+    padding: 15px 15px;
+}
+.fa-download:before {
+    margin-right: 6px;
+}
+.fa-phone:before {
+    margin-right: 5px;
+}
+#about {
+    margin: 55px 0;
+}
+.about-content {
+    padding: 45px 0;
+}
+.heading h2 {
+    font-size: 30px;
+}
+#service .heading p {
+    padding: 0px 40px;
+}
+.service-item p {
+    font-size: 16px;
+    padding-right: 70px;
+}
+.service-item {
+    margin-bottom: 20px;
+}
+#service {
+    padding-bottom: 60px;
+}
+#resume .heading {
+    padding-bottom: 61px;
+}
+.edu-item h3 {
+    font-size: 20px;
+    padding-bottom: 0px;
+}
+.edu-item h4 {
+    font-size: 17px;
+    padding-bottom: 12px;
+}
+.edu-item p {
+    font-size: 14px;
+    padding-right: 46px;
+}
+.info h4 {
+    font-size: 15px;
+    margin: 0;
+}
+.info h3 {
+    font-size: 19px;
+    margin: 0 0 35px 0;
+}
+.download-cv a {
+    font-size: 15px;
+    padding: 15px 13px;
+}
+#resume {
+    padding-bottom: 72px;
+}
+#contact {
+    padding: 70px 0;
+}
+#contact .heading p {
+    font-size: 15px;
+    margin: 0;
+}
+.social {
+    padding: 15px 0;
+}
+.form {
+    padding-top: 10px;
+}
+.field button {
+    font-size: 17px;
+    padding: 14px 30px;
+}
+}
+
+/* ============== Medium Devices ============== */
+
+/* ============== Large Devices ============== */
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+  .navbar-expand-md .navbar-nav .nav-link {
+    font-size: 16px;
+}
+.banner-text h3 {
+    font-size: 40px;
+}
+.banner-text h2 {
+    font-size: 50px;
+}
+#about {
+    margin: 70px 0;
+}
+.about-content {
+    padding: 80px 0;
+}
+.heading p {
+    padding: 0;
+}
+.info h4 {
+    font-size: 16px;
+}
+.info h3 {
+    font-size: 17px;
+}
+.service-item {
+    padding: 0px;
+}
+#service {
+    padding-bottom: 85px;
+}
+#resume .heading {
+    padding-bottom: 95px;
+}
+}
+/* ============== Large Devices ============== */
+
+/* ============== Extra Devices ============== */
+
+@media (min-width: 1200px) and (max-width: 1399.98px){
+.banner-text h2 {
+    font-size: 65px;
+}
+.service-item p {
+    padding-right: 15px;
+}
+}
+
+/* ============== Extra Devices ============== */
